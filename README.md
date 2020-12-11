@@ -1,7 +1,7 @@
-# Hallem Lab: Published Code Repository
+# Chavez *et al* 2021: Published Code Repository
 
 ## Contents
-This repository consists of folders containing published code. Folder names refer to the articles' first author/publication year.  
+This repository contains published code from Chavez *et al* 2021.
 
 ## License
 All source code in this repository is freely available under an MIT license, unless otherwise noted.

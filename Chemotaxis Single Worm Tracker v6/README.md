@@ -2,7 +2,7 @@
 Hallem Lab Chemotaxis Tracking Codebase
 
 Version repository for Single Worm Chemotaxis Tracking Matlab code used in
-Chavez *et al* 2020.
+Chavez *et al* 2021.
 
 
 ## Function Description
